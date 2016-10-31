@@ -1,0 +1,17 @@
+Links to web development
+
+BackEnd Focused Projects:
+  Basic Ecommerce Site
+  Link: kelvin.ist.rit.edu/~bfj5889/ISTE341/project1/index.php
+  Specfic Achievements:
+    Implemented Singleton instance for database instantiation
+    Dynamically generated items from database
+    Used session to allow guest to have own carts
+
+FrontEnd Focused Projects:
+  Innovene Medical Startup
+  Link: TBD
+  Specfic Achievements:
+    Implementation of Google material design
+    Paypal integration
+    Google Anayltics integration
